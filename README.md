@@ -145,7 +145,7 @@ __global__ void multiply_matrix(const float* A, const float* B, float* C, int N)
 
 График зависимости времени и ускорения (файл `speedup_chart.jpg`):
 
-![Сравнение CPU и GPU](speedup_chart.jpg)
+![Сравнение CPU и GPU](speedup_chart.png)
 
 Из графика видно, что:
 
